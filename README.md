@@ -18,7 +18,7 @@
   <img align="center" alt="Luccas-Py" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Luccas-spr" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
   <img align="center" alt="Luccas-dba" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Luccas-dba" height="90" width="120" src="https://cdn.discordapp.com/attachments/908514004501164053/920076518913355806/giphy.gif">
+  <img align="right" alt="Luccas-dba" height="90" width="150" src="https://cdn.discordapp.com/attachments/908514004501164053/921876890707447879/ken-kaneki-tokyo-ghoul.gif">
 </div>
 
   <br>
