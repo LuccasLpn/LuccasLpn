@@ -8,7 +8,7 @@
 
 
   <h4 align="center">
-  <img align="center"  height="350" alt="Gif Luccas" src="https://cdn.discordapp.com/attachments/908514004501164053/921876890707447879/ken-kaneki-tokyo-ghoul.gif">
+  <img align="center"  height="300" alt="Gif Luccas" src="https://cdn.discordapp.com/attachments/908514004501164053/921876890707447879/ken-kaneki-tokyo-ghoul.gif">
  
   
   <h4 align="center">
