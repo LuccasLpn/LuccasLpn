@@ -10,11 +10,12 @@
   <h4 align="center">
   <img align="center"  height="300" alt="Gif Luccas" src="https://cdn.discordapp.com/attachments/908514004501164053/921876890707447879/ken-kaneki-tokyo-ghoul.gif">
  
-  
   <h4 align="center">
   <a href="https://github.com/LuccasLpn">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuccasLpn&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasLpn&layout=compact&langs_count=7&theme=synthwave"/>
+
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=LuccasLpn&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasLpn&layout=compact&langs_count=7&theme=synthwave"/>
 
   <h4 align="center">
   <img align="center" alt="Luccas-java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
