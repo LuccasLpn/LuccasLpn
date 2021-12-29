@@ -1,7 +1,13 @@
   <h4 align="center">
   <img align=""  height="340" alt="Gif Luccas" src="https://cdn.discordapp.com/attachments/908514004501164053/925596157651091496/newbg2.png">
   <h4 align="center">
-  ### Olá, eu sou o Luccas Pereira Nunes, estudante de java back-end, atualmente moro em São Paulo,Aluno do 2º ano de Sistemas de informação, apaixonado por desenvolvimento,Proficiente em uma variedade de tecnologias modernas, incluindo Java e Spring Boot, Hibernate,Rest,Ionic, Tendo 2 anos de experiencia como suporte de t.i. 
+  Hi, I'm Luccas Pereira Nunes, java backend student, currently living in São Paulo,
+  <br> 
+  2nd year Information Systems student, passionate about development, Proficient in 
+  <br>   
+  a variety of modern technologies including Java and Spring Boot, Hibernate ,Rest,
+  <br>  
+  Ionic, Having 2 years of experience supporting you
     
   <br>
   <br>
