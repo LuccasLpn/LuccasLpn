@@ -1,7 +1,7 @@
   <h4 align="center">
   <img align=""  height="340" alt="Gif Luccas" src="https://cdn.discordapp.com/attachments/908514004501164053/925596157651091496/newbg2.png">
   <h4 align="center">
-  Hi, I'm Luccas Pereira Nunes, java backend student, currently living in São Paulo,
+  Hi, I'm Luccas, java backend student, currently living in São Paulo,
   <br> 
   2nd year Information Systems student, passionate about development, Proficient in 
   <br>   
