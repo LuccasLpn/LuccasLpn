@@ -29,3 +29,7 @@
   <a href="https://github.com/LuccasLpn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccasLpn&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasLpn&&langs_count=7&theme=midnight-purple"/>
+  <h3><p align="center">Total de Visitas no Perfil</p>
+<p align="center">
+    <img alingn="center" src="https://profile-counter.glitch.me/LuccasLpn/count.svg"/>
+</p>
