@@ -1,5 +1,5 @@
   <h4 align="center">
-  <img align=""  height="340" alt="Gif Luccas" src="https://cdn.discordapp.com/attachments/908514004501164053/925596157651091496/newbg2.png">
+  <img align=""  height="340" alt="Gif Luccas" src="https://cdn.discordapp.com/attachments/908514004501164053/930186421094973440/68747470733a2f2f692e696d6775722e636f6d2f6f7432727461532e676966.gif">
   <h4 align="center">
   Hi, I'm Luccas, java backend student, currently living in São Paulo,
   <br> 
@@ -27,5 +27,5 @@
  <a href = "mailto:luccas.lpn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <h4 align="center">
   <a href="https://github.com/LuccasLpn">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LuccasLpn&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasLpn&&langs_count=7&theme=synthwave"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=LuccasLpn&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasLpn&&langs_count=7&theme=midnight-purple"/>
