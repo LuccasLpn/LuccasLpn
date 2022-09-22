@@ -17,6 +17,7 @@
     
   <img align="center" alt="Luccas-java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Luccas-Kotlin" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg">
+   <img align="center" alt="Luccas-spr" height="50" width="50" src="https://cdn.discordapp.com/attachments/908514004501164053/1022510125782675567/unknown.png">
   <img align="center" alt="Luccas-spr" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
     <img align="center" alt="Luccas-kafka" height="50" width="50" src="https://cdn.discordapp.com/attachments/908514004501164053/1022498027581218927/unknown.png">
   <img align="center" alt="Luccas-dba" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
