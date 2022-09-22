@@ -18,7 +18,7 @@
   <img align="center" alt="Luccas-java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Luccas-Kotlin" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg">
   <img align="center" alt="Luccas-spr" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
-    <img align="center" alt="Luccas-kafka" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg">
+    <img align="center" alt="Luccas-kafka" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original.svg">
   <img align="center" alt="Luccas-dba" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Luccas-dba" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"> 
   <img align="center" alt="Luccas-dba" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"> 
