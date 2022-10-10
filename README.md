@@ -1,15 +1,5 @@
   <h4 align="center">
   <img align=""  height="340" alt="Gif Luccas" src="https://cdn.discordapp.com/attachments/908514004501164053/930186421094973440/68747470733a2f2f692e696d6775722e636f6d2f6f7432727461532e676966.gif">
-  <h4 align="center">
-  Hi, I'm Luccas, java backend student, currently living in São Paulo,
-  <br> 
-  2nd year Information Systems student, passionate about development, Proficient in 
-  <br>   
-  a variety of modern technologies including Java and Spring Boot, Hibernate ,Rest,
-  <br>  
-  Ionic, Having 2 years of experience supporting you
-    
-  <br>
   <br>
 
     
