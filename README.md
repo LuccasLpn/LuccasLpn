@@ -14,8 +14,6 @@
   <img align="center" alt="Luccas-dba" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain-wordmark.svg"> 
   <img align="center" alt="Luccas-dba" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain-wordmark.svg"> 
   <img align="center" alt="Luccas-docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain-wordmark.svg">
-   
-  
   <br>
   <br>
   <a href="https://www.instagram.com/_luccsxx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -24,8 +22,8 @@
  <a href = "mailto:luccas.lpn@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <h4 align="center">
   <a href="https://github.com/LuccasLpn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccasLpn&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasLpn&&langs_count=7&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuccasLpn&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasLpn&&langs_count=7&theme=midnight-purple"/>
   <h3><p align="center">Total de Visitas no Perfil</p>
 <p align="center">
     <img alingn="center" src="https://profile-counter.glitch.me/LuccasLpn/count.svg"/>
